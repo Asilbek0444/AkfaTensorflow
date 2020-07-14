@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_0365.JPG</filename>
+	<path>C:\Users\User\PycharmProjects\TensorflowAkfa\models\research\object_detection\images\train\IMG_0365.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zapchast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>138</ymin>
+			<xmax>589</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>
